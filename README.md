@@ -5,17 +5,17 @@ This data should be presented in a sidebar, as a menu and that you can then coll
 
 How To run the app:
 Install create-react-app globally 
-npm install -g create-react-app
-
+**npm install -g create-react-app
+**
 Create a new React app:
-npx create-react-app my-website
-
+**npx create-react-app my-website
+**
 Replace the content of src/App.js with the code from MyWebsite.tsx.
 
 Navigate to your project directory:
-cd my-website
-
+**cd my-website
+**
 Start the development server:
-npm start
-
+**npm start
+**
 This will start your React app, and you can view it in your browser at http://localhost:3000.
